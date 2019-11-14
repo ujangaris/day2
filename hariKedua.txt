@@ -1,0 +1,6 @@
+1. installasi git
+2. seting akun git pada komputer
+3. buat repositori baru pada github:
+    -inisialisasi
+    -git remote add origin https://github.com/ujangaris/day2.git
+    -
