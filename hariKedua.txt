@@ -4,3 +4,4 @@
     -inisialisasi
     -git remote add origin https://github.com/ujangaris/day2.git
     -
+4. mengatur ssh-key pada github 
